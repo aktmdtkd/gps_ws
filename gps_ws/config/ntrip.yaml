@@ -1,0 +1,6 @@
+caster: ?(RTS1.ngii.go.kr)
+port: your_port
+mountpoint: yout_mountpoint
+username: your_id
+password: your_pw
+serial_device: /dev/ttyACM?
